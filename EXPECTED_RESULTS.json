@@ -1,0 +1,13 @@
+{
+  "source_records": 403,
+  "eligible_complete_records": 400,
+  "conventional_MetS_cases": 77,
+  "MetS_star_cases": 68,
+  "FLI_AUC_conventional_MetS": 0.8668730650,
+  "FLI_AUC_MetS_star": 0.8601612332,
+  "HSI_AUC_conventional_MetS": 0.8838004101,
+  "best_nested_CV_model": "Age+Sex+FLI random forest",
+  "best_nested_CV_AUC": 0.8875797307,
+  "best_nested_CV_Brier": 0.0713262747,
+  "random_seed": 20260907
+}

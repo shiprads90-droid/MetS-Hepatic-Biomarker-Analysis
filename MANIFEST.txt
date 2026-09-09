@@ -1,0 +1,6 @@
+analysis.py - complete numerical analysis pipeline
+make_figures.py - generation of Figures 1, 2, 3A, 3B, 4, and 5
+requirements.txt - pinned Python dependencies
+README.md - installation, execution, definitions, cautions, and output map
+EXPECTED_RESULTS.json - aggregate values for verification
+CODE_AVAILABILITY_TEMPLATE.txt - journal-ready statement awaiting the Zenodo DOI
